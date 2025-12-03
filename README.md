@@ -1,4 +1,4 @@
-# template-repo
+# template-repo-for-multi-css-files
 # (Application Name)
 
 #### (Brief Description of Application)
@@ -13,6 +13,7 @@
 * _here_
 
 ## Description
+> This template repositiory had its webpack.config.js file reconfigured to handle mutilple css files for individual html files.
 
 ## Setup/Installation Requirements
 
